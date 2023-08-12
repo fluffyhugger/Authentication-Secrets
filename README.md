@@ -1,6 +1,6 @@
 <h1>Authentication-Secrets using EJS</h1>
 
-Authentication-Secrets is a web application that demonstrates user authentication using EJS (Embedded JavaScript) as the templating engine. This application allows users to securely register, log in, and access their secret information. It's built using Node.js, Express.js, Passport.js, and MongoDB for data storage.
+Authentication-Secrets is a web application that demonstrates user authentication using EJS (Embedded JavaScript) as the templating engine. This application allows users to securely register, log in, and access their secret information. It's built using Node.js, Express.js, Passport.js, and MongoDB for data storage and this Authentication-Secrets is from the part of learning from Webdevelopment Bootcamp.
 
 <h2>Features</h2>
 <ul>
